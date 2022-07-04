@@ -1,4 +1,5 @@
-Deployment (https://sorting-visualise.herokuapp.com/)
+Deployment: https://sorting-visualise.herokuapp.com/
+
 ![WhatsApp Image 2022-04-14 at 3 15 01 PM (1)](https://user-images.githubusercontent.com/88341160/163359595-96ea1511-39b0-4d92-bcbe-eac43ff933d7.jpeg)
 
 ![WhatsApp Image 2022-04-14 at 3 15 01 PM](https://user-images.githubusercontent.com/88341160/163359789-8b751b07-2eba-4835-aa22-fa7273ff5023.jpeg)
